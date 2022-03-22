@@ -1,0 +1,50 @@
+ID,Name,Email,Age,Mode,Gender,DayToFinish
+1245123,sunjunlin,junlinkun@gmail.com,24,MICT,Male,6
+MasterSpeed of User:sunjunlin
+600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0
+Success Rate of User:sunjunlin
+2,3,4,5
+501,762,142,862
+519,807,268,1758
+0.965318,0.944238,0.529851,0.49033
+ID,Name,Email,Age,Mode,Gender,DayToFinish
+1245444,sunjunlin,junlinku4.com,24,MICT,Male,2
+MasterSpeed of User:sunjunlin
+Success Rate of User:sunjunlin
+1
+59
+112
+0.526786
+ID,Name,Email,Age,Mode,Gender,DayToFinish
+9104562968,hamed,hamedaliyary@gmail.com,32,MICT,Male,2
+MasterSpeed of User:hamed
+600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0,600.0
+Success Rate of User:hamed
+1
+295
+379
+0.778364
+ID,Name,Email,Age,Mode,Gender,DayToFinish
+123456789,ren
+ren ,xiangshiren@gmail.com,40,HIIT,Male,4
+MasterSpeed of User:ren
+ren 
+1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
+Success Rate of User:ren
+ren 
+1,2,3
+34,3295,1581
+76,6312,2341
+0.447368,0.522022,0.675352
+ID,Name,Email,Age,Mode,Gender,DayToFinish
+77777777777,ren
+ren ,xiangshiren@gmail.com,40,DDA,Male,2
+MasterSpeed of User:ren
+ren 
+400.0,400.0,400.0,400.0,400.0
+Success Rate of User:ren
+ren 
+1
+749
+1503
+0.498337
