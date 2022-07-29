@@ -8,11 +8,20 @@ Success Rate of User:KimuraMomoka
 1858
 0.666846
 ID,Name,Email,Age,Mode,Gender,DayToFinish
-1230323,KubotaNarumi,igtks8109"ezweb.ne.jp,21,HIIT,Female,2
+1230323,KubotaNarumi,igtks8109"ezweb.ne.jp,21,HIIT,Female,4
 MasterSpeed of User:KubotaNarumi
 1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
 Success Rate of User:KubotaNarumi
+1,2,3
+1192,1157,1216
+1840,1761,1788
+0.647826,0.657013,0.680089
+ID,Name,Email,Age,Mode,Gender,DayToFinish
+1230300,InoueMai,mai.inoue612"gmail.com,22,HIIT,Female,2
+MasterSpeed of User:InoueMai
+1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
+Success Rate of User:InoueMai
 1
-1192
-1840
-0.647826
+1260
+1968
+0.640244
