@@ -1,84 +1,84 @@
 ID,Name,Email,Age,Mode,Gender,DayToFinish
-1230322,KimuraMomoka,skmsy6899122"au.com,21,HIIT,Female,4
+1230322,KimuraMomoka,skmsy6899122"au.com,21,HIIT,Female,6
 MasterSpeed of User:KimuraMomoka
 1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
 Success Rate of User:KimuraMomoka
-1,2,3
-1239,1384,1454
-1858,1861,1813
-0.666846,0.743686,0.801986
+1,2,3,4,5
+1239,1384,1454,1448,1475
+1858,1861,1813,1791,1773
+0.666846,0.743686,0.801986,0.808487,0.831923
 ID,Name,Email,Age,Mode,Gender,DayToFinish
-1230323,KubotaNarumi,igtks8109"ezweb.ne.jp,21,HIIT,Female,6
+1230323,KubotaNarumi,igtks8109"ezweb.ne.jp,21,HIIT,Female,8
 MasterSpeed of User:KubotaNarumi
 1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
 Success Rate of User:KubotaNarumi
-1,2,3,4,5
-1192,1157,1216,1256,1265
-1840,1761,1788,1745,1746
-0.647826,0.657013,0.680089,0.719771,0.724513
+1,2,3,4,5,6,7
+1192,1157,1216,1256,1265,1264,1312
+1840,1761,1788,1745,1746,1721,1752
+0.647826,0.657013,0.680089,0.719771,0.724513,0.734457,0.748858
 ID,Name,Email,Age,Mode,Gender,DayToFinish
-1230300,InoueMai,mai.inoue612"gmail.com,22,HIIT,Female,4
+1230300,InoueMai,mai.inoue612"gmail.com,22,HIIT,Female,6
 MasterSpeed of User:InoueMai
 1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
 Success Rate of User:InoueMai
-1,2,3
-1260,1339,1276
-1968,1961,1887
-0.640244,0.682815,0.676206
+1,2,3,4,5
+1260,1339,1276,1310,1330
+1968,1961,1887,1893,1875
+0.640244,0.682815,0.676206,0.692023,0.709333
 ID,Name,Email,Age,Mode,Gender,DayToFinish
-1230324,KumamotoRyo,ryokumamoto"icloud.com,21,HIIT,Male,2
+1230324,KumamotoRyo,ryokumamoto"icloud.com,21,HIIT,Male,4
 MasterSpeed of User:KumamotoRyo
 1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
 Success Rate of User:KumamotoRyo
-1
-1184
-1785
-0.663305
+1,2,3
+1184,1258,1315
+1785,1803,1865
+0.663305,0.697726,0.705094
 ID,Name,Email,Age,Mode,Gender,DayToFinish
-1260446,GoudaHaruto,n.kana.0412"docomo.ne.jp,20,HIIT,Male,3
+1260446,GoudaHaruto,n.kana.0412"docomo.ne.jp,20,HIIT,Male,5
 MasterSpeed of User:GoudaHaruto
 1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
 Success Rate of User:GoudaHaruto
-1,2
-530,615
-895,932
-0.592179,0.659871
+1,2,3,4
+530,615,666,660
+895,932,914,959
+0.592179,0.659871,0.728665,0.688217
 ID,Name,Email,Age,Mode,Gender,DayToFinish
-1230287,AyabeMio,tennis.724.ayabe"gmail.com,22,HIIT,Female,3
+1230287,AyabeMio,tennis.724.ayabe"gmail.com,22,HIIT,Female,4
 MasterSpeed of User:AyabeMio
 1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
 Success Rate of User:AyabeMio
-1,2
-563,635
-929,1007
-0.606028,0.630586
+1,2,3
+563,635,674
+929,1007,1137
+0.606028,0.630586,0.592788
 ID,Name,Email,Age,Mode,Gender,DayToFinish
-1230316,KamadaNana,nanajani8k"docomo.ne.jp,22,HIIT,Female,2
+1230316,KamadaNana,nanajani8k"docomo.ne.jp,22,HIIT,Female,4
 MasterSpeed of User:KamadaNana
 1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
 Success Rate of User:KamadaNana
-1
-1370
-1891
-0.724484
+1,2,3
+1370,1400,1410
+1891,1815,1817
+0.724484,0.77135,0.776004
 ID,Name,Email,Age,Mode,Gender,DayToFinish
-1230186,WakabayashiRie,230186b"gmail.com,21,HIIT,Female,4
+1230186,WakabayashiRie,230186b"gmail.com,21,HIIT,Female,6
 MasterSpeed of User:WakabayashiRie
 1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
 Success Rate of User:WakabayashiRie
-1,2,3
-590,600,624
-944,908,893
-0.625,0.660793,0.698768
+1,2,3,4,5
+590,600,624,612,641
+944,908,893,896,923
+0.625,0.660793,0.698768,0.683036,0.694475
 ID,Name,Email,Age,Mode,Gender,DayToFinish
-1230308,OkamotoYudai,230308f@ugs.kochi-tech.ac.jp,22,HIIT,Male,3
+1230308,OkamotoYudai,230308f@ugs.kochi-tech.ac.jp,22,HIIT,Male,4
 MasterSpeed of User:OkamotoYudai
 1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
 Success Rate of User:OkamotoYudai
-1,2
-633,672
-937,946
-0.67556,0.710359
+1,2,3
+633,672,666
+937,946,901
+0.67556,0.710359,0.739179
 ID,Name,Email,Age,Mode,Gender,DayToFinish
 1230244,TanakaAnju,anju12080907@gmail.com,21,HIIT,Female,4
 MasterSpeed of User:TanakaAnju
@@ -89,20 +89,47 @@ Success Rate of User:TanakaAnju
 1323,1509,1643
 0.560091,0.536117,0.52039
 ID,Name,Email,Age,Mode,Gender,DayToFinish
-1230337,SuenobuKouryu,koryu-s.2000.04.29@docomo.ne.jp,22,HIIT,Male,2
+1230337,SuenobuKouryu,koryu-s.2000.04.29@docomo.ne.jp,22,HIIT,Male,3
 MasterSpeed of User:SuenobuKouryu
 1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
 Success Rate of User:SuenobuKouryu
-1
-608
-906
-0.671082
+1,2
+608,623
+906,869
+0.671082,0.716916
 ID,Name,Email,Age,Mode,Gender,DayToFinish
-1230330,KobayashiMayaka,230330n@ugs.kochi-tech.ac.jp,21,HIIT,Female,2
+1230330,KobayashiMayaka,230330n@ugs.kochi-tech.ac.jp,21,HIIT,Female,3
 MasterSpeed of User:KobayashiMayaka
 1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
 Success Rate of User:KobayashiMayaka
+1,2
+1189,1261
+1871,1924
+0.635489,0.655405
+ID,Name,Email,Age,Mode,Gender,DayToFinish
+1230059,KounoTamaki,oxrknp125@docomo.ne.jp,21,HIIT,Female,2
+MasterSpeed of User:KounoTamaki
+1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
+Success Rate of User:KounoTamaki
 1
-1189
-1871
-0.635489
+1191
+1790
+0.665363
+ID,Name,Email,Age,Mode,Gender,DayToFinish
+1230344,TsudaMahiro,t1m31018@gmail.com,21,HIIT,Male,2
+MasterSpeed of User:TsudaMahiro
+1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
+Success Rate of User:TsudaMahiro
+1
+1454
+1842
+0.789359
+ID,Name,Email,Age,Mode,Gender,DayToFinish
+1230325,KurokiMina,k-mina24@i.softbank.jp,21,HIIT,Female,2
+MasterSpeed of User:KurokiMina
+1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
+Success Rate of User:KurokiMina
+1
+606
+881
+0.687855
