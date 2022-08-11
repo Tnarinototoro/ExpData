@@ -143,14 +143,14 @@ Success Rate of User:OharaAsami
 975,957,945,928
 0.690256,0.662487,0.730159,0.747845
 ID,Name,Email,Age,Mode,Gender,DayToFinish
-1230127,HashizumeMina,mina3737hashi@yahoo.co.jp,22,HIIT,Female,7
+1230127,HashizumeMina,mina3737hashi@yahoo.co.jp,22,HIIT,Female,8
 MasterSpeed of User:HashizumeMina
 1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0
 Success Rate of User:HashizumeMina
-1,2,3,4,5,6
-539,659,680,681,707,724
-908,923,937,900,892,883
-0.593612,0.713976,0.72572,0.756667,0.792601,0.819932
+1,2,3,4,5,6,7
+539,659,680,681,707,724,718
+908,923,937,900,892,883,899
+0.593612,0.713976,0.72572,0.756667,0.792601,0.819932,0.798665
 ID,Name,Email,Age,Mode,Gender,DayToFinish
 1240212,KatoYuto,240212b@ugs.kochi-tech.ac.jp,21,HIIT,Male,4
 MasterSpeed of User:KatoYuto
